@@ -1,7 +1,7 @@
 ## TasarimDesenleri
-#AbstractFactoryDeseni
-#BuilderDeseni
-#IteratorDeseni
-#MediatorDeseni
-#ObserverDeseni
+AbstractFactoryDeseni
+BuilderDeseni
+IteratorDeseni
+MediatorDeseni
+ObserverDeseni
 
